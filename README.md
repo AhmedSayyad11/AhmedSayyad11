@@ -1,4 +1,12 @@
 ## About me 
+Hi, I'm Ahmed 👋  
+Aspiring Data Engineer & AI Enthusiast  
+
+- 💻 Java, Python, SQL  
+- 🤖 Interested in Generative AI  
+- 📊 Building data-driven projects  
+
+📫 Connect with me on LinkedIn
 
 <!--
 **AhmedSayyad11/AhmedSayyad11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
