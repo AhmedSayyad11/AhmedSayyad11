@@ -57,7 +57,7 @@ Tech Used: Python, NLP
 ---
 
 ## 📫 Connect With Me  
-- LinkedIn: (ضع الرابط هنا)  
+- LinkedIn:  https://www.linkedin.com/in/ahmed-sayyad-7a384a3b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6f4WoSsaSAmq5l8KII48nA%3D%3D
 
 ---
 
