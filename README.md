@@ -1,58 +1,57 @@
+}
 # 👋 Hi, I'm Ahmed Sayyad  
 
 🎓 Computer Engineer  
-🚀 Aspiring Data Engineer & AI Enthusiast  
+🚀 Generative AI Developer  
 
 ---
 
 ## 🚀 About Me  
-I am a Computer Engineer with a strong interest in building scalable systems, data-driven solutions, and intelligent applications.  
-I enjoy solving real-world problems using technology and continuously improving my technical skills.  
+I am a Computer Engineer passionate about building intelligent systems using Generative AI.  
+I focus on creating applications that generate content, solve real-world problems, and leverage modern AI technologies.  
 
-- 💻 Skilled in Java, Python, and SQL  
-- 🧠 Interested in Data Engineering, AI, and Backend Development  
-- 📊 Passionate about working with data and building efficient systems  
-- 📚 Always learning and exploring new technologies  
+- 🤖 Focused on Generative AI and NLP  
+- 💻 Skilled in Python, Java, and SQL  
+- 🧠 Interested in AI models, prompt engineering, and intelligent systems  
+- 📚 Continuously learning and exploring advanced AI techniques  
 
 ---
 
 ## 🛠️ Tech Stack  
-- Languages: Java, Python, SQL  
-- Tools & Technologies: Git, GitHub, Flutter  
-- Core Skills: Data Structures, Algorithms, APIs, Problem Solving  
+- Languages: Python, Java, SQL  
+- Technologies: Git, GitHub  
+- Focus Areas: Generative AI, NLP, AI Applications  
 
 ---
 
 ## 📂 Featured Projects  
 
-### 💰 Personal Finance Manager  
-A system designed to help users track income and expenses, manage budgets, and gain financial insights.  
+### 🤖 Arabic Poem Generator (GenAI Project)  
+A Generative AI system that creates Arabic poetry based on user input using NLP techniques.  
 
 Key Features:  
-- Track income and expenses  
-- Manage financial records  
-- Simple and structured design  
-
-Tech Used: Java  
-
----
-
-### 🤖 Arabic Poem Generator (NLP Project)  
-An AI-powered system that generates Arabic poetry based on user input using NLP techniques.  
-
-Key Features:  
-- Natural Language Processing  
-- Text generation  
-- Arabic language support  
+- AI-based text generation  
+- Arabic language processing  
+- Creative content generation  
 
 Tech Used: Python, NLP  
 
 ---
 
-## 📈 Career Goals  
-- Become a professional Data Engineer  
-- Build scalable data pipelines and AI systems  
-- Contribute to impactful real-world projects  
+### 💰 Personal Finance Manager  
+A system to manage income and expenses with structured logic and clean backend design.  
+
+Key Features:  
+- Track income and expenses  
+- Manage financial data  
+- Simple and organized system  
+
+Tech Used: Java  
+
+---
+
+## 📈 Career Vision  
+To become a professional Generative AI Engineer, building intelligent systems and impactful AI-powered applications.  
 
 ---
 
